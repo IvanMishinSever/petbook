@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/petbook/,/static/css/main.f0b91b64.chunk.css",
+    "main.js": "/petbook/,/static/js/main.f5f5eaf5.chunk.js",
+    "main.js.map": "/petbook/,/static/js/main.f5f5eaf5.chunk.js.map",
+    "runtime-main.js": "/petbook/,/static/js/runtime-main.0bb7063f.js",
+    "runtime-main.js.map": "/petbook/,/static/js/runtime-main.0bb7063f.js.map",
+    "static/js/2.b77fa430.chunk.js": "/petbook/,/static/js/2.b77fa430.chunk.js",
+    "static/js/2.b77fa430.chunk.js.map": "/petbook/,/static/js/2.b77fa430.chunk.js.map",
+    "static/js/3.19c0a680.chunk.js": "/petbook/,/static/js/3.19c0a680.chunk.js",
+    "static/js/3.19c0a680.chunk.js.map": "/petbook/,/static/js/3.19c0a680.chunk.js.map",
+    "index.html": "/petbook/,/index.html",
+    "static/css/main.f0b91b64.chunk.css.map": "/petbook/,/static/css/main.f0b91b64.chunk.css.map",
+    "static/js/2.b77fa430.chunk.js.LICENSE.txt": "/petbook/,/static/js/2.b77fa430.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bb7063f.js",
+    "static/js/2.b77fa430.chunk.js",
+    "static/css/main.f0b91b64.chunk.css",
+    "static/js/main.f5f5eaf5.chunk.js"
+  ]
+}
